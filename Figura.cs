@@ -14,7 +14,7 @@ namespace Ejemplo
         /// <returns></returns>
         public virtual int CalcularPerimetro()
         {
-            return 0;
+            return 6;
         }
     }
 
